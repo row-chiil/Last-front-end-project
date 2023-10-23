@@ -151,7 +151,7 @@
         align-items: center;
     }
     .trash{
-        padding-right: 7px;
+        padding-right: 8.5px;
     }
     input{
         padding:10px;

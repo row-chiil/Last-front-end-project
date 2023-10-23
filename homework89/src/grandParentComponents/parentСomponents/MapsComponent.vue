@@ -21,52 +21,50 @@
         justify-content: space-around;
         flex-direction: column;
         align-items: center;
+
+        font-size: 20px;
+
     }
     iframe{
         width: 80vw;
-        min-height: 30vw;
+        min-height: 27vw;
         height: fit-content;
         border: 0;
+
+        margin-top: 30px;
     }
     @media (max-width: 1850px) {
         iframe{
-            width: 80vw;
             height: 35vw;
         }
     }
     @media (max-width: 1560px) {
         iframe{
-            width: 80vw;
             height: 40vw;
         }
     }
     @media(max-width: 1190px){
         iframe{
-            width: 80vw;
-            height: 60vw;
+            height: 55vw;
         }
     }
     @media (max-width:800px) {
         iframe{
-            width: 80vw;
             height: 80vw;
         }
     }
     @media (max-width:700px) {
         iframe{
-            width: 80vw;
             height: 95vw;
         }
     }
     @media (max-width:600px) {
         iframe{
-            width: 80vw;
             height: 105vw;
         }
     }
     @media (max-width:500px) {
         iframe{
-            width: 80vw;
             height: 130vw;
         }
     }
