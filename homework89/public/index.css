@@ -1,0 +1,6 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url("./img/black-abstract-background-wallpaper-image.jpg");
+    color: azure;
+}
